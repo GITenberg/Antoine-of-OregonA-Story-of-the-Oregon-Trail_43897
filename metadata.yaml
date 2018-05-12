@@ -1,0 +1,30 @@
+_repo: Antoine-of-OregonA-Story-of-the-Oregon-Trail_43897
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43897-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: Published as part of a series of stories for children to depict how early
+  settlers emigrated through the wilderness to establish a new home and life.
+gutenberg_issued: '2013-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43897'
+  lccn: '12026760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Overland journeys to the Pacific'
+- !lcc 'F590.3'
+title: 'Antoine of Oregon: A Story of the Oregon Trail'
+url: http://www.gutenberg.org/ebooks/43897
