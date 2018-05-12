@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1433
 description: Published as part of a series of stories for children to depict how early
   settlers emigrated through the wilderness to establish a new home and life.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43897#Antoine-of-OregonA-Story-of-the-Oregon-Trail
 gutenberg_issued: '2013-10-05'
 gutenberg_type: Text
 identifiers:
